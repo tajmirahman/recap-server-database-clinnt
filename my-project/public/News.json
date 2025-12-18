@@ -1,0 +1,149 @@
+
+[
+    {
+    "id": 1,
+    "title": "ম্যান ভার্সেস ওয়াইল্ড সিরিজের অজানা যত দিক",
+    "description":
+      "তিনি দেখিয়েছেন কীভাবে সাপ, ব্যাঙ, পোকা-মাকড় থেকে ভয়ংকর বিপদসংকুল পরিবেশে টিকে থাকতে হয়...",
+    "image":
+      "https://i.ibb.co/YZK7Y0p/bear-grylls.jpg",
+    "category": "বই ও সিনেমা",
+    "type": "Article",
+    "date": "অক্টোবর 26, 2023"
+  },
+  {
+    "id": 2,
+    "title": "রাশিয়ার রূপকথার পাঁচজন সাহিত্যিক",
+    "description":
+      "যুদ্ধ শেষে একটা প্যাশনের গ্রাস হতে নিলেন। এক চুমুকে পুরো গ্রাস শেষ করে দিয়ে চলে পড়লেন মৃত্যুর কোলে...",
+    "image":
+      "https://i.ibb.co/2yZQYQF/russian-writers.jpg",
+    "category": "বই ও সিনেমা",
+    "type": "Article",
+    "date": "অক্টোবর 25, 2023"
+  },
+  {
+    "id": 3,
+    "title": "হলিউডের সেরা সারভাইভাল সিনেমা",
+    "description":
+      "প্রকৃতির বিরুদ্ধে মানুষের লড়াই নিয়ে তৈরি কিছু অবিস্মরণীয় সারভাইভাল সিনেমার গল্প...",
+    "image":
+      "https://i.ibb.co/wgH5w1b/survival-movie.jpg",
+    "category": "বিনোদন",
+    "type": "Article",
+    "date": "অক্টোবর 20, 2023"
+  },
+  {
+    "id": 4,
+    "title": "বাস্তব জীবন থেকে অনুপ্রাণিত ৫টি সিনেমা",
+    "description":
+      "বাস্তব ঘটনাকে কেন্দ্র করে তৈরি এমন কিছু সিনেমা যা আপনাকে ভাবাবে...",
+    "image":
+      "https://i.ibb.co/WpGkZ8z/real-story.jpg",
+    "category": "বই ও সিনেমা",
+    "type": "Article",
+    "date": "অক্টোবর 18, 2023"
+  },
+  {
+    "id": 5,
+    "title": "ইংল্যান্ডের স্বর্ণযাত্রার শেষ এখানেই? | প্রথম পর্ব",
+    "description": "দ্য ক্রিকেট মাস্টারির বিশ্লেষণের প্রথম পর্বে উঠে এসেছে ১৫ বিশ্বকাপ থেকে ১৯ বিশ্বকাপ পর্যন্ত ইংল্যান্ডের স্বর্ণযাত্রার গল্প।",
+    "image": "/images/england-cricket-1.jpg",
+    "category": "খেলাধুলা",
+    "type": "Article",
+    "date": "নভেম্বর 14, 2023",
+    "author": "Roar Sports"
+  },
+  {
+    "id": 6,
+    "title": "বাংলাদেশ ক্রিকেটের উত্থান ও বাস্তবতা",
+    "description": "বিশ্ব ক্রিকেটে বাংলাদেশের অবস্থান কোথায় দাঁড়িয়ে আছে, তা বিশ্লেষণ করা হয়েছে এই প্রতিবেদনে।",
+    "image": "/images/bd-cricket.jpg",
+    "category": "খেলাধুলা",
+    "type": "Article",
+    "date": "অক্টোবর 10, 2023",
+    "author": "Roar Sports"
+  },
+  {
+    "id": 7,
+    "title": "ফুটবলে নতুন যুগের সূচনা",
+    "description": "ইউরোপীয় ফুটবলে কৌশলগত পরিবর্তন কীভাবে খেলাটিকে বদলে দিচ্ছে তা তুলে ধরা হয়েছে।",
+    "image": "/images/football-era.jpg",
+    "category": "খেলাধুলা",
+    "type": "Article",
+    "date": "ডিসেম্বর 02, 2023",
+    "author": "Roar Football"
+  },
+  {
+    "id": 8,
+    "title": "টি–টোয়েন্টি ক্রিকেট কি টেস্ট ক্রিকেটকে শেষ করে দেবে?",
+    "description": "সংক্ষিপ্ত সংস্করণের জনপ্রিয়তা দীর্ঘ সংস্করণের ভবিষ্যৎ নিয়ে প্রশ্ন তুলছে।",
+    "image": "/images/t20-vs-test.jpg",
+    "category": "খেলাধুলা",
+    "type": "Article",
+    "date": "নভেম্বর 22, 2023",
+    "author": "Roar Cricket"
+  },
+  {
+    "id": 9,
+    "title": "বিশ্বকাপ ফাইনালের অজানা গল্প",
+    "description": "বিশ্বকাপ ফাইনালের পর্দার আড়ালের গল্প ও গুরুত্বপূর্ণ মুহূর্তগুলো বিশ্লেষণ করা হয়েছে।",
+    "image": "/images/worldcup-final.jpg",
+    "category": "খেলাধুলা",
+    "type": "Article",
+    "date": "নভেম্বর 30, 2023",
+    "author": "Roar Sports"
+  },
+  {
+    "id": 10,
+    "title": "আধুনিক ক্রিকেটে অলরাউন্ডারদের গুরুত্ব",
+    "description": "একাদশ গঠনে অলরাউন্ডাররা কেন এখন অপরিহার্য, তা বিশ্লেষণ করা হয়েছে।",
+    "image": "/images/allrounder.jpg",
+    "category": "খেলাধুলা",
+    "type": "Article",
+    "date": "অক্টোবর 18, 2023",
+    "author": "Roar Analysis"
+  },
+  {
+    "id": 11,
+    "title": "ফুটবল বিশ্বকাপে তরুণদের দাপট",
+    "description": "এবারের বিশ্বকাপে তরুণ ফুটবলাররা কীভাবে আলো কেড়েছে তার বিশ্লেষণ।",
+    "image": "/images/young-stars.jpg",
+    "category": "খেলাধুলা",
+    "type": "Article",
+    "date": "ডিসেম্বর 05, 2023",
+    "author": "Roar Football"
+  },
+  {
+    "id": 12,
+    "title": "ক্রিকেটে ডেটা অ্যানালিটিক্সের প্রভাব",
+    "description": "ডেটা ও প্রযুক্তি কীভাবে আধুনিক ক্রিকেটের কৌশল বদলে দিচ্ছে তা তুলে ধরা হয়েছে।",
+    "image": "/images/cricket-analytics.jpg",
+    "category": "খেলাধুলা",
+    "type": "Article",
+    "date": "নভেম্বর 08, 2023",
+    "author": "Roar Tech"
+  },
+  {
+    "id": 13,
+    "title": "ফুটবলে কোচিং দর্শনের পরিবর্তন",
+    "description": "নতুন প্রজন্মের কোচরা কীভাবে ফুটবলের দর্শন বদলে দিচ্ছেন তার বিশ্লেষণ।",
+    "image": "/images/football-coach.jpg",
+    "category": "খেলাধুলা",
+    "type": "Article",
+    "date": "অক্টোবর 25, 2023",
+    "author": "Roar Football"
+  },
+  {
+    "id": 14,
+    "title": "বিশ্ব ক্রিকেটে পাওয়ার হিটিংয়ের উত্থান",
+    "description": "পাওয়ার হিটিং কীভাবে ম্যাচের গতিপথ বদলে দিচ্ছে তা বিশ্লেষণ করা হয়েছে।",
+    "image": "/images/power-hitting.jpg",
+    "category": "খেলাধুলা",
+    "type": "Article",
+    "date": "নভেম্বর 18, 2023",
+    "author": "Roar Cricket"
+  }
+
+
+]
