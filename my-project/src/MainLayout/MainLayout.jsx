@@ -1,9 +1,10 @@
 import React from 'react';
+import Header from '../Components/Navber/Header';
 
 const MainLayout = () => {
     return (
-        <div>
-            <h1>This is main layout</h1>
+        <div className=' lg:px-10'>
+            <Header></Header>
         </div>
     );
 };
