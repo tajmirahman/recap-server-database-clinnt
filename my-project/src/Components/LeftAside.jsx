@@ -13,7 +13,7 @@ const LeftAside = () => {
     // console.log(leftNews)
 
     return (
-        <div className='space-y-2 mt-10'>
+        <div className='space-y-2 mt-5'>
             {
                 leftNews.map(news => (
                     <div className="card bg-base-100 shadow-lg hover:shadow-xl transition rounded-2xl">

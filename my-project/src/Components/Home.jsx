@@ -12,11 +12,11 @@ const Home = () => {
             <aside className='col-span-3'>
                 <LeftAside></LeftAside>
             </aside>
-            <aside className='col-span-9'>
-                <div>
+            <aside className='col-span-9 mt-5 '>
+                <div className='space-y-2'>
                     {
                         news.map(news => (
-                            <div className="card bg-base-100 shadow-lg hover:shadow-xl transition rounded-2xl">
+                            <div className="card bg-base-100 shadow-lg hover:shadow-xl transition rounded-2xl ">
                                 <figure className="h-52 overflow-hidden rounded-t-2xl">
                                     <img
                                         src={news.image}
