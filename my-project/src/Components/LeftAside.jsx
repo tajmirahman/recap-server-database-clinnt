@@ -10,10 +10,10 @@ const LeftAside = () => {
             .then(data => setLeftNews(data))
     }, [])
 
-    console.log(leftNews)
+    // console.log(leftNews)
 
     return (
-        <div>
+        <div className='space-y-2 mt-10'>
             {
                 leftNews.map(news => (
                     <div className="card bg-base-100 shadow-lg hover:shadow-xl transition rounded-2xl">
